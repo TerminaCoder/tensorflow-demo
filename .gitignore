@@ -1,0 +1,22 @@
+
+venv/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### idea ###
+.settings/
+.classpath
+.project
+
+### VS Code ###
+.vscode/
+
+### vim ###
+*.swp
+*.swo
+
